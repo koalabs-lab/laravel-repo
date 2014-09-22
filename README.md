@@ -8,8 +8,9 @@ If you find yourself implementing the same default methods over an over again fo
 ## Quick overview
 Repo consists of two basic files:
 
-* EloquentRepo.php
-* Repo.php (Interface)
+* RepoInterface.php (Interface)
+* Repo.php
+* CacheableRepo.php
 
 ### Repo.php
 The *Repo.php* file is just an interface with the basic CRUD methods (Create, Read, Update, Destroy). It will enforce you implement all methods should you choose to use some other kind of Repository in the future.
