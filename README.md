@@ -1,4 +1,4 @@
-repo
+Laravel Repo
 ====
 
 Simple implementation of the Repository Interface for Eloquent with the most basic CRUD methods.
