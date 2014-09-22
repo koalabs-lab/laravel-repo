@@ -7,6 +7,9 @@
             "email": "carlos@koalabs.co"
         }
     ],
+    "keywords": [
+        "laravel"
+    ],
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
