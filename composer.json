@@ -1,0 +1,20 @@
+{
+    "name": "koalabs/repo",
+    "description": "",
+    "authors": [
+        {
+            "name": "Koalabs",
+            "email": "carlos@koalabs.co"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Koalabs\\Repo": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
