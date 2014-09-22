@@ -1,15 +1,16 @@
 {
     "name": "koalabs/repo",
-    "description": "",
+    "description": "Simple implementation of the Repository Interface for Eloquent with the most basic CRUD methods",
     "authors": [
         {
             "name": "Koalabs",
             "email": "carlos@koalabs.co"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "4.*"
     },
     "autoload": {
         "psr-0": {
