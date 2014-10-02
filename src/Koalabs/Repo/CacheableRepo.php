@@ -3,7 +3,7 @@
 use Koalabs\Repo\Services\Cache;
 use Illuminate\Database\Eloquent\Model as Entity;
 
-abstract class CachableRepo implements RepoInterface {
+abstract class CacheableRepo implements RepoInterface {
 
   /**
    * The entity being handled by the repository
